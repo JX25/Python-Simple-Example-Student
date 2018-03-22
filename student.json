@@ -1,0 +1,19 @@
+{
+  "students":
+          [
+            {"name":"Grzegorz","surname":"Brzeczyszczykiewicz","nr_indeksu":"251921","oceny":[3,3.5,2,5,5]},
+            {"name":"Jan","surname":"Markiewicz","nr_indeksu":"631632","oceny":[4.5,2,2,5,3.5]},
+            {"name":"Mikolaj","surname":"Sadlok","nr_indeksu":"748098","oceny":[2,3.5,5,5,5]},
+            {"name":"Teodor","surname":"Jedrzejczyk","nr_indeksu":"216254","oceny":[3,3.5,3,5,3]},
+            {"name":"Jozef","surname":"Maczynski","nr_indeksu":"846012","oceny":[3.5,3.5,2,4.5,5]},
+            {"name":"Marek","surname":"Pazdan","nr_indeksu":"930001","oceny":[3.5,3.5,3.5,5,5]},
+            {"name":"Marcin","surname":"Zaluska","nr_indeksu":"353124","oceny":[3,3.5,2,2,4]},
+            {"name":"Grzegorz","surname":"Wawrzyniak","nr_indeksu":"462111","oceny":[3,3.5,2,2,2]},
+            {"name":"Zofia","surname":"Gajos","nr_indeksu":"532122","oceny":[3.5,3.5,2,5,3]},
+            {"name":"Magda","surname":"Frankowska","nr_indeksu":"532644","oceny":[3.5,3.5,4.5,5,5]},
+            {"name":"Kinga","surname":"Pawelek","nr_indeksu":"745864","oceny":[2,3.5,2,5,3]},
+            {"name":"Marcelina","surname":"Milosz","nr_indeksu":"513351","oceny":[4,3.5,4,5,4]},
+            {"name":"Kinga","surname":"Malarczyk","nr_indeksu":"444644","oceny":[5,5,5,5,5]},
+            {"name":"Joanna","surname":"Kielb","nr_indeksu":"214421","oceny":[3,3.5,2,3,2]}
+          ]
+}
